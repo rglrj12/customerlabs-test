@@ -1,0 +1,85 @@
+.save__segment {
+  border-radius: 1px white;
+  font-family: "Times New Roman", Times, serif;
+  background-color: transparent;
+  color: black;
+  padding: 1rem;
+}
+
+.App {
+  text-align: center;
+}
+
+.ReactModal__Content {
+  width: 40%;
+  float: right;
+}
+
+p {
+  font-size: small;
+}
+
+input,
+select {
+  padding: 5px;
+  border-color: grey;
+  border-radius: 5px;
+}
+
+span {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.tab__ {
+  background-color: aqua;
+  font-weight: 600;
+  padding: 2rem;
+}
+
+.modal__ {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+input,
+select {
+  width: 35%;
+}
+
+.bluebox__ {
+  border: 3px;
+  border-color: blue;
+  padding: 1.5rem;
+}
+
+a {
+  color: green;
+  font-size: small;
+  padding-top: 15px;
+  text-decoration: underline;
+}
+
+.buttons__ {
+  bottom: 20px;
+  position: absolute;
+  display: flex;
+  gap: 1rem;
+}
+
+.save_the_segment__ {
+  border-radius: 5px;
+  color: white;
+  background-color: green;
+  padding: 1em;
+}
+
+.close__ {
+  border-radius: 5px;
+  color: red;
+  padding: 1em;
+  border: none;
+}
